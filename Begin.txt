@@ -1,2 +1,3 @@
 Well this is the file for your first task. Just create some new file with the given content and commit using the given commit messages. And push it to your repo.
 Inform your partner as soon as you have completed your tasks so they can begin doing their own.
+We really hope that you are having a lot of fun with these simple tasks, as the real roller-coaster is yet to start. So buckle up guys!
