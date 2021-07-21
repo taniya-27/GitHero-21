@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 "Develop", as the name suggests, is normally used as a kind of staging environment, or testing environment, into which all new feature/hotfix branches will be merged to establish the effects of the new code, good or bad, before it would be allowed to be merged to the "master" branch.
 Develop or any other branch is typically created by Admin to restrict developers to make any changes in the main branch. As doing this without proper review and testing will break the working of the application. Just like this commit will.
+Add this at the end of the file in a new line
+Always make sure the new changes don’t break anything before pushing them to github.
+=======
+"Develop", as the name suggests, is normally used as a kind of staging environment, or testing environment, into which all new feature/hotfix branches will be merged to establish the effects of the new code, good or bad, before it would be allowed to be merged to the "master" branch.
+>>>>>>> parent of 9dc7ced (This shouldn't be)
